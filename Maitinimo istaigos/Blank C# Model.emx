@@ -2289,7 +2289,6 @@
     </eAnnotations>
     <group xmi:type="uml:ActivityPartition" xmi:id="_UZ6qQITGEeKd48RZ01Qv3A" name="User"/>
   </packagedElement>
-<<<<<<< HEAD
   <packagedElement xmi:type="uml:Activity" xmi:id="_1HNm4ITGEeKd48RZ01Qv3A" name="Activity2" partition="_2pAw0ITGEeKd48RZ01Qv3A _3qfb8ITGEeKd48RZ01Qv3A">
     <eAnnotations xmi:id="_1HNm4YTGEeKd48RZ01Qv3A" source="uml2.diagrams">
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_1HNm4oTGEeKd48RZ01Qv3A" type="Activity" element="_1HNm4ITGEeKd48RZ01Qv3A" name="Antra diagrama" measurementUnit="Himetric">
@@ -2317,8 +2316,6 @@
     <group xmi:type="uml:ActivityPartition" xmi:id="_2pAw0ITGEeKd48RZ01Qv3A" name="User"/>
     <group xmi:type="uml:ActivityPartition" xmi:id="_3qfb8ITGEeKd48RZ01Qv3A" name="System"/>
   </packagedElement>
-=======
->>>>>>> second
   <profileApplication xmi:id="_P8156YMnEeKNc_WTUZkI7A">
     <eAnnotations xmi:id="_P8156oMnEeKNc_WTUZkI7A" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
