@@ -1517,7 +1517,7 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_JpBB1H9HEeKEk9DBgJSM_g" value="1"/>
       </ownedEnd>
     </packagedElement>
-    <packagedElement xmi:type="uml:UseCase" xmi:id="_K1L6AH9HEeKEk9DBgJSM_g" name="Publish new on the webpage"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_K1L6AH9HEeKEk9DBgJSM_g" name="Publish news on the webpage"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_nZr1QH9HEeKEk9DBgJSM_g" memberEnd="_nZr1QX9HEeKEk9DBgJSM_g _nZr1RH9HEeKEk9DBgJSM_g" navigableOwnedEnd="_nZr1QX9HEeKEk9DBgJSM_g _nZr1RH9HEeKEk9DBgJSM_g">
       <ownedEnd xmi:id="_nZr1QX9HEeKEk9DBgJSM_g" name="naujienos publikavimas" visibility="private" type="_K1L6AH9HEeKEk9DBgJSM_g" association="_nZr1QH9HEeKEk9DBgJSM_g">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_nZr1Q39HEeKEk9DBgJSM_g" value="1"/>
