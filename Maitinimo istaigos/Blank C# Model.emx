@@ -2269,6 +2269,53 @@
     <group xmi:type="uml:ActivityPartition" xmi:id="_FG6MoIM5EeKNc_WTUZkI7A" name="System" node="_KNdPsIM5EeKNc_WTUZkI7A _S29cIIM5EeKNc_WTUZkI7A _i0q2AIM5EeKNc_WTUZkI7A _x497oIM5EeKNc_WTUZkI7A _MsqnoIM6EeKNc_WTUZkI7A" edge="_d8owEIM5EeKNc_WTUZkI7A _lGuYMIM5EeKNc_WTUZkI7A _ljdXgIM5EeKNc_WTUZkI7A _4-MR4IM5EeKNc_WTUZkI7A _bWfXwIM6EeKNc_WTUZkI7A"/>
     <group xmi:type="uml:ActivityPartition" xmi:id="_GIhaoIM5EeKNc_WTUZkI7A" name="Phone" node="_Ra2qgIM5EeKNc_WTUZkI7A _u2LgEIM5EeKNc_WTUZkI7A" edge="_ewEYIIM5EeKNc_WTUZkI7A _4jYlMIM5EeKNc_WTUZkI7A"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_TqTyQITGEeKd48RZ01Qv3A" name="Activity1" partition="_UZ6qQITGEeKd48RZ01Qv3A">
+    <eAnnotations xmi:id="_Tqc8MITGEeKd48RZ01Qv3A" source="uml2.diagrams">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Tqc8MYTGEeKd48RZ01Qv3A" type="Activity" element="_TqTyQITGEeKd48RZ01Qv3A" name="ActivityDiagram1" measurementUnit="Himetric">
+        <children xmi:type="umlnotation:UMLFrame" xmi:id="_Tqc8MoTGEeKd48RZ01Qv3A" type="Activity Frame" element="_TqTyQITGEeKd48RZ01Qv3A" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Tqc8M4TGEeKd48RZ01Qv3A" type="ActivityCompartment">
+            <children xmi:type="umlnotation:UMLFrame" xmi:id="_UZ6qQYTGEeKd48RZ01Qv3A" element="_UZ6qQITGEeKd48RZ01Qv3A" fontHeight="8" bold="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_UZ6qQ4TGEeKd48RZ01Qv3A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_UZ6qRITGEeKd48RZ01Qv3A" type="PartitionName"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_UZ6qRYTGEeKd48RZ01Qv3A" type="PartitionCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UZ6qQoTGEeKd48RZ01Qv3A" x="610" y="372"/>
+            </children>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Tqc8NITGEeKd48RZ01Qv3A" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tqc8NYTGEeKd48RZ01Qv3A" x="793" y="793"/>
+        </children>
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Tqc8NoTGEeKd48RZ01Qv3A" name="support_hide_pins"/>
+      </contents>
+    </eAnnotations>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_UZ6qQITGEeKd48RZ01Qv3A" name="User"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_1HNm4ITGEeKd48RZ01Qv3A" name="Activity2" partition="_2pAw0ITGEeKd48RZ01Qv3A _3qfb8ITGEeKd48RZ01Qv3A">
+    <eAnnotations xmi:id="_1HNm4YTGEeKd48RZ01Qv3A" source="uml2.diagrams">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_1HNm4oTGEeKd48RZ01Qv3A" type="Activity" element="_1HNm4ITGEeKd48RZ01Qv3A" name="Antra diagrama" measurementUnit="Himetric">
+        <children xmi:type="umlnotation:UMLFrame" xmi:id="_1HNm44TGEeKd48RZ01Qv3A" type="Activity Frame" element="_1HNm4ITGEeKd48RZ01Qv3A" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_1HNm5ITGEeKd48RZ01Qv3A" type="ActivityCompartment">
+            <children xmi:type="umlnotation:UMLFrame" xmi:id="_2pAw0YTGEeKd48RZ01Qv3A" element="_2pAw0ITGEeKd48RZ01Qv3A" fontHeight="8" bold="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_2pAw04TGEeKd48RZ01Qv3A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_2pAw1ITGEeKd48RZ01Qv3A" type="PartitionName"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_2pAw1YTGEeKd48RZ01Qv3A" type="PartitionCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2pAw0oTGEeKd48RZ01Qv3A" x="424" y="187"/>
+            </children>
+            <children xmi:type="umlnotation:UMLFrame" xmi:id="_3qfb8YTGEeKd48RZ01Qv3A" element="_3qfb8ITGEeKd48RZ01Qv3A" fontHeight="8" bold="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_3qfb84TGEeKd48RZ01Qv3A" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_3qfb9ITGEeKd48RZ01Qv3A" type="PartitionName"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3qfb9YTGEeKd48RZ01Qv3A" type="PartitionCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3qfb8oTGEeKd48RZ01Qv3A" x="5742" y="240"/>
+            </children>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_1HNm5YTGEeKd48RZ01Qv3A" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1HNm5oTGEeKd48RZ01Qv3A" x="793" y="793"/>
+        </children>
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_1HNm54TGEeKd48RZ01Qv3A" name="support_hide_pins"/>
+      </contents>
+    </eAnnotations>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_2pAw0ITGEeKd48RZ01Qv3A" name="User"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_3qfb8ITGEeKd48RZ01Qv3A" name="System"/>
+  </packagedElement>
   <profileApplication xmi:id="_P8156YMnEeKNc_WTUZkI7A">
     <eAnnotations xmi:id="_P8156oMnEeKNc_WTUZkI7A" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
