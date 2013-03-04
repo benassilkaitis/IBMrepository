@@ -2277,7 +2277,18 @@
             <children xmi:type="umlnotation:UMLFrame" xmi:id="_UZ6qQYTGEeKd48RZ01Qv3A" element="_UZ6qQITGEeKd48RZ01Qv3A" fontHeight="8" bold="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_UZ6qQ4TGEeKd48RZ01Qv3A" type="Stereotype"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_UZ6qRITGEeKd48RZ01Qv3A" type="PartitionName"/>
-              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_UZ6qRYTGEeKd48RZ01Qv3A" type="PartitionCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_UZ6qRYTGEeKd48RZ01Qv3A" type="PartitionCompartment">
+                <children xmi:type="umlnotation:UMLShape" xmi:id="_BnLcoITJEeKJcOh5kge0_g" element="_BnCSsITJEeKJcOh5kge0_g" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                  <children xmi:type="notation:DecorationNode" xmi:id="_BnLcooTJEeKJcOh5kge0_g" type="ImageCompartment">
+                    <layoutConstraint xmi:type="notation:Size" xmi:id="_BnLco4TJEeKJcOh5kge0_g" width="1320" height="1320"/>
+                  </children>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_BnLcpITJEeKJcOh5kge0_g" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_BnLcpYTJEeKJcOh5kge0_g" type="InPartitions"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_BnLcpoTJEeKJcOh5kge0_g" type="Name"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_BnLcp4TJEeKJcOh5kge0_g" type="Parent"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BnLcoYTJEeKJcOh5kge0_g" x="373" y="2998"/>
+                </children>
+              </children>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UZ6qQoTGEeKd48RZ01Qv3A" x="610" y="372"/>
             </children>
           </children>
@@ -2287,7 +2298,8 @@
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Tqc8NoTGEeKd48RZ01Qv3A" name="support_hide_pins"/>
       </contents>
     </eAnnotations>
-    <group xmi:type="uml:ActivityPartition" xmi:id="_UZ6qQITGEeKd48RZ01Qv3A" name="User"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_BnCSsITJEeKJcOh5kge0_g" name="OpaqueAction" inPartition="_UZ6qQITGEeKd48RZ01Qv3A"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_UZ6qQITGEeKd48RZ01Qv3A" name="User" node="_BnCSsITJEeKJcOh5kge0_g"/>
   </packagedElement>
   <packagedElement xmi:type="uml:Activity" xmi:id="_1HNm4ITGEeKd48RZ01Qv3A" name="Activity2" partition="_2pAw0ITGEeKd48RZ01Qv3A _3qfb8ITGEeKd48RZ01Qv3A">
     <eAnnotations xmi:id="_1HNm4YTGEeKd48RZ01Qv3A" source="uml2.diagrams">
@@ -2297,7 +2309,18 @@
             <children xmi:type="umlnotation:UMLFrame" xmi:id="_2pAw0YTGEeKd48RZ01Qv3A" element="_2pAw0ITGEeKd48RZ01Qv3A" fontHeight="8" bold="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_2pAw04TGEeKd48RZ01Qv3A" type="Stereotype"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_2pAw1ITGEeKd48RZ01Qv3A" type="PartitionName"/>
-              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_2pAw1YTGEeKd48RZ01Qv3A" type="PartitionCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_2pAw1YTGEeKd48RZ01Qv3A" type="PartitionCompartment">
+                <children xmi:type="umlnotation:UMLShape" xmi:id="_AZhWsITJEeKJcOh5kge0_g" element="_AVDtcITJEeKJcOh5kge0_g" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                  <children xmi:type="notation:DecorationNode" xmi:id="_AZrHsITJEeKJcOh5kge0_g" type="ImageCompartment">
+                    <layoutConstraint xmi:type="notation:Size" xmi:id="_AZrHsYTJEeKJcOh5kge0_g" width="1320" height="1320"/>
+                  </children>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_AZrHsoTJEeKJcOh5kge0_g" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_AZ0RoITJEeKJcOh5kge0_g" type="InPartitions"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_AZ-CoITJEeKJcOh5kge0_g" type="Name"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_AZ-CoYTJEeKJcOh5kge0_g" type="Parent"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AZhWsYTJEeKJcOh5kge0_g" x="1061" y="1146"/>
+                </children>
+              </children>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2pAw0oTGEeKd48RZ01Qv3A" x="424" y="187"/>
             </children>
             <children xmi:type="umlnotation:UMLFrame" xmi:id="_3qfb8YTGEeKd48RZ01Qv3A" element="_3qfb8ITGEeKd48RZ01Qv3A" fontHeight="8" bold="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
@@ -2313,7 +2336,8 @@
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_1HNm54TGEeKd48RZ01Qv3A" name="support_hide_pins"/>
       </contents>
     </eAnnotations>
-    <group xmi:type="uml:ActivityPartition" xmi:id="_2pAw0ITGEeKd48RZ01Qv3A" name="User"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_AVDtcITJEeKJcOh5kge0_g" name="OpaqueAction" inPartition="_2pAw0ITGEeKd48RZ01Qv3A"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_2pAw0ITGEeKd48RZ01Qv3A" name="User" node="_AVDtcITJEeKJcOh5kge0_g"/>
     <group xmi:type="uml:ActivityPartition" xmi:id="_3qfb8ITGEeKd48RZ01Qv3A" name="System"/>
   </packagedElement>
   <profileApplication xmi:id="_P8156YMnEeKNc_WTUZkI7A">
